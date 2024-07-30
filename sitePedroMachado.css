@@ -1,0 +1,20 @@
+/* Todos os imports devem ser colocados no início */
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+.figura{
+  width: 150px; 
+  /* Classe para configuração da fonte*/
+  .fonte{
+  color:#191f70 ;
+  size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  }
+
+}
